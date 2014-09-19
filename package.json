@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danielagreen88/hello-world/issues"
   },
+  "dependencies": {
+    "name": "request"
+  },
   "homepage": "https://github.com/danielagreen88/hello-world"
 }
