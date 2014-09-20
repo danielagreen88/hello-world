@@ -16,7 +16,7 @@
     "url": "https://github.com/danielagreen88/hello-world/issues"
   },
   "dependencies": {
-    "name": "request"
+    "request": "~2.40.0"
   },
   "homepage": "https://github.com/danielagreen88/hello-world"
 }
